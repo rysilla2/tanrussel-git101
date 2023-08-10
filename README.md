@@ -1,2 +1,2 @@
 # tanrussel-git101
-# hello
+# "This is my first commit"
